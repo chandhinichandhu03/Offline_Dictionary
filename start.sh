@@ -71,3 +71,6 @@ npm run dev
 kill $BACKEND_PID 2>/dev/null || true
 echo ""
 echo "👋 LexiLearn stopped."
+
+
+bash /Users/ashokkumar/Downloads/offline_dictionary/start.sh
