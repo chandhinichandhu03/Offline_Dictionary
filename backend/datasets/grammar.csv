@@ -1,0 +1,97 @@
+word,pos,tense_form,description
+running,verb,Present Participle,The -ing form of run used in continuous tenses
+eating,verb,Present Participle,The -ing form of eat used in continuous tenses
+playing,verb,Present Participle,The -ing form of play used in continuous tenses
+writing,verb,Present Participle,The -ing form of write used in continuous tenses
+reading,verb,Present Participle,The -ing form of read used in continuous tenses
+singing,verb,Present Participle,The -ing form of sing used in continuous tenses
+dancing,verb,Present Participle,The -ing form of dance used in continuous tenses
+sleeping,verb,Present Participle,The -ing form of sleep used in continuous tenses
+walking,verb,Present Participle,The -ing form of walk used in continuous tenses
+talking,verb,Present Participle,The -ing form of talk used in continuous tenses
+cooking,verb,Present Participle,The -ing form of cook used in continuous tenses
+studying,verb,Present Participle,The -ing form of study used in continuous tenses
+working,verb,Present Participle,The -ing form of work used in continuous tenses
+thinking,verb,Present Participle,The -ing form of think used in continuous tenses
+swimming,verb,Present Participle,The -ing form of swim used in continuous tenses
+jumped,verb,Past Tense,The past tense form of jump
+walked,verb,Past Tense,The past tense form of walk
+played,verb,Past Tense,The past tense form of play
+talked,verb,Past Tense,The past tense form of talk
+cooked,verb,Past Tense,The past tense form of cook
+cleaned,verb,Past Tense,The past tense form of clean
+worked,verb,Past Tense,The past tense form of work
+finished,verb,Past Tense,The past tense form of finish
+started,verb,Past Tense,The past tense form of start
+opened,verb,Past Tense,The past tense form of open
+closed,verb,Past Tense,The past tense form of close
+eaten,verb,Past Participle,The past participle form of eat
+written,verb,Past Participle,The past participle form of write
+spoken,verb,Past Participle,The past participle form of speak
+broken,verb,Past Participle,The past participle form of break
+chosen,verb,Past Participle,The past participle form of choose
+driven,verb,Past Participle,The past participle form of drive
+fallen,verb,Past Participle,The past participle form of fall
+given,verb,Past Participle,The past participle form of give
+taken,verb,Past Participle,The past participle form of take
+runs,verb,Third Person Singular,The third person singular present form of run
+eats,verb,Third Person Singular,The third person singular present form of eat
+plays,verb,Third Person Singular,The third person singular present form of play
+reads,verb,Third Person Singular,The third person singular present form of read
+writes,verb,Third Person Singular,The third person singular present form of write
+speaks,verb,Third Person Singular,The third person singular present form of speak
+sings,verb,Third Person Singular,The third person singular present form of sing
+teaches,verb,Third Person Singular,The third person singular present form of teach
+watches,verb,Third Person Singular,The third person singular present form of watch
+catches,verb,Third Person Singular,The third person singular present form of catch
+happiness,noun,Base Form,Abstract noun derived from the adjective happy
+sadness,noun,Base Form,Abstract noun derived from the adjective sad
+kindness,noun,Base Form,Abstract noun derived from the adjective kind
+darkness,noun,Base Form,Abstract noun derived from the adjective dark
+weakness,noun,Base Form,Abstract noun derived from the adjective weak
+beautiful,adjective,Base Form,Adjective describing aesthetic quality
+wonderful,adjective,Base Form,Adjective meaning inspiring wonder
+powerful,adjective,Base Form,Adjective meaning having great power
+careful,adjective,Base Form,Adjective meaning giving attention to avoid danger
+hopeful,adjective,Base Form,Adjective meaning feeling or inspiring hope
+thankful,adjective,Base Form,Adjective meaning feeling or expressing gratitude
+graceful,adjective,Base Form,Adjective meaning having elegance or beauty of movement
+peaceful,adjective,Base Form,Adjective meaning free from disturbance
+playful,adjective,Base Form,Adjective meaning fond of games and amusement
+cheerful,adjective,Base Form,Adjective meaning noticeably happy and optimistic
+quickly,adverb,Base Form,Adverb meaning at a fast speed
+slowly,adverb,Base Form,Adverb meaning at a slow speed
+carefully,adverb,Base Form,Adverb meaning in a way that avoids harm
+happily,adverb,Base Form,Adverb meaning in a happy way
+sadly,adverb,Base Form,Adverb meaning in a sad manner
+loudly,adverb,Base Form,Adverb meaning with a lot of sound
+quietly,adverb,Base Form,Adverb meaning making little or no noise
+gently,adverb,Base Form,Adverb meaning in a gentle manner
+bravely,adverb,Base Form,Adverb meaning in a brave manner
+wisely,adverb,Base Form,Adverb meaning in a wise manner
+I,pronoun,Base Form,First person singular subject pronoun
+you,pronoun,Base Form,Second person subject or object pronoun
+he,pronoun,Base Form,Third person singular masculine subject pronoun
+she,pronoun,Base Form,Third person singular feminine subject pronoun
+it,pronoun,Base Form,Third person singular neuter subject pronoun
+we,pronoun,Base Form,First person plural subject pronoun
+they,pronoun,Base Form,Third person plural subject pronoun
+in,preposition,Base Form,Preposition indicating location or time
+on,preposition,Base Form,Preposition indicating surface or day
+at,preposition,Base Form,Preposition indicating specific location or time
+by,preposition,Base Form,Preposition indicating agent or proximity
+with,preposition,Base Form,Preposition indicating accompaniment
+from,preposition,Base Form,Preposition indicating origin
+to,preposition,Base Form,Preposition indicating direction or purpose
+and,conjunction,Base Form,Coordinating conjunction joining words or clauses
+but,conjunction,Base Form,Coordinating conjunction showing contrast
+or,conjunction,Base Form,Coordinating conjunction showing alternative
+because,conjunction,Base Form,Subordinating conjunction showing reason
+although,conjunction,Base Form,Subordinating conjunction showing concession
+while,conjunction,Base Form,Subordinating conjunction showing simultaneous action
+wow,interjection,Base Form,Interjection expressing surprise or admiration
+ouch,interjection,Base Form,Interjection expressing pain
+hurray,interjection,Base Form,Interjection expressing joy or triumph
+alas,interjection,Base Form,Interjection expressing grief or pity
+bravo,interjection,Base Form,Interjection expressing approval
+hello,interjection,Base Form,Interjection used as a greeting

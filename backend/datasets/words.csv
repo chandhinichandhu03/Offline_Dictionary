@@ -1,0 +1,207 @@
+word,meaning,pos,synonyms,antonyms,example,phonetic,frequency
+happy,feeling or showing pleasure or contentment,adjective,joyful;glad;cheerful;delighted;pleased,sad;unhappy;miserable;sorrowful,She is happy today.,/ˈhæpi/,95
+sad,feeling or showing sorrow; unhappy,adjective,unhappy;sorrowful;dejected;melancholy;gloomy,happy;cheerful;joyful;glad,He felt sad after the movie.,/sæd/,90
+run,to move swiftly on foot,verb,jog;sprint;dash;race;gallop,walk;crawl;stop;stand,He can run fast.,/rʌn/,98
+walk,to move at a regular pace by lifting and setting down each foot,verb,stroll;amble;saunter;stride;trek,run;sprint;dash,They walk to school every day.,/wɔːk/,96
+beautiful,pleasing the senses or mind aesthetically,adjective,gorgeous;stunning;attractive;lovely;pretty,ugly;hideous;unattractive;plain,The sunset was beautiful.,/ˈbjuːtɪfəl/,92
+ugly,unpleasant or repulsive in appearance,adjective,hideous;unsightly;unattractive;grotesque,beautiful;gorgeous;attractive;pretty,The old building looked ugly.,/ˈʌɡli/,70
+eat,to put food into the mouth and chew and swallow it,verb,consume;devour;dine;feast;munch,fast;starve;abstain,I eat breakfast every morning.,/iːt/,97
+drink,to take liquid into the mouth and swallow,verb,sip;gulp;consume;imbibe;quaff,abstain;fast,She likes to drink water.,/drɪŋk/,93
+big,of considerable size or extent,adjective,large;huge;enormous;massive;vast,small;tiny;little;minute,The elephant is big.,/bɪɡ/,97
+small,of a size that is less than normal,adjective,tiny;little;minute;petite;miniature,big;large;huge;enormous,The mouse is small.,/smɔːl/,96
+fast,moving or capable of moving at high speed,adjective,quick;rapid;swift;speedy;hasty,slow;sluggish;leisurely,The car is very fast.,/fæst/,88
+slow,moving or operating at a low speed,adjective,sluggish;unhurried;leisurely;gradual;languid,fast;quick;rapid;swift,The turtle is slow.,/sloʊ/,85
+good,of high quality or to be desired,adjective,excellent;great;fine;superb;wonderful,bad;poor;terrible;awful,She did a good job.,/ɡʊd/,99
+bad,of poor quality or low standard,adjective,poor;terrible;awful;dreadful;lousy,good;excellent;great;superb,The weather is bad today.,/bæd/,94
+love,an intense feeling of deep affection,noun,affection;adoration;devotion;fondness;passion,hate;loathing;hatred;animosity,Love conquers all.,/lʌv/,98
+hate,to feel intense dislike for,verb,detest;loathe;despise;abhor;dislike,love;adore;cherish;like,I hate rainy days.,/heɪt/,80
+book,a written or printed work consisting of pages,noun,volume;publication;tome;text;novel,none,She read the book in one day.,/bʊk/,95
+write,to mark coherent letters or words on a surface,verb,compose;pen;author;draft;inscribe,erase;delete,He likes to write stories.,/raɪt/,93
+read,to look at and comprehend the meaning of written matter,verb,peruse;study;scan;browse;examine,ignore;overlook,She loves to read novels.,/riːd/,95
+speak,to say words in order to convey information or express feelings,verb,talk;say;utter;articulate;express,listen;be silent,He can speak three languages.,/spiːk/,90
+listen,to give attention to sound,verb,hear;attend;heed;hark;concentrate,ignore;disregard,Please listen carefully.,/ˈlɪsən/,88
+think,to use the mind to consider something,verb,ponder;consider;contemplate;reflect;deliberate,ignore;neglect,I think therefore I am.,/θɪŋk/,94
+learn,to gain knowledge or skill by studying or experience,verb,study;acquire;master;absorb;grasp,forget;unlearn;ignore,Children learn quickly.,/lɜːrn/,92
+teach,to impart knowledge to someone,verb,instruct;educate;train;tutor;coach,learn;study,She loves to teach children.,/tiːtʃ/,88
+house,a building for human habitation,noun,home;residence;dwelling;abode;domicile,none,They bought a new house.,/haʊs/,96
+car,a road vehicle with an engine and four wheels,noun,automobile;vehicle;auto;motorcar,none,He drives a red car.,/kɑːr/,94
+dog,a domesticated carnivorous mammal,noun,canine;hound;puppy;pooch;mutt,cat,The dog barked loudly.,/dɒɡ/,93
+cat,a small domesticated carnivorous mammal,noun,feline;kitten;kitty;tomcat,dog,The cat sat on the mat.,/kæt/,92
+water,a colorless transparent liquid,noun,H2O;aqua;liquid;fluid,none,Drink plenty of water.,/ˈwɔːtər/,98
+food,any nutritious substance eaten to maintain life,noun,nourishment;sustenance;fare;cuisine;provisions,none,Healthy food is important.,/fuːd/,97
+play,to engage in activity for enjoyment,verb,frolic;amuse;entertain;sport;romp,work;toil;labor,Children love to play outside.,/pleɪ/,93
+work,to be engaged in physical or mental activity,verb,labor;toil;strive;endeavor;operate,play;rest;relax,He works at a hospital.,/wɜːrk/,98
+sleep,to be in a state of rest with eyes closed,verb,rest;slumber;nap;doze;snooze,wake;arise,The baby is sleeping peacefully.,/sliːp/,90
+wake,to stop sleeping,verb,awaken;arise;rouse;stir;get up,sleep;doze;nap,I wake up at six every morning.,/weɪk/,82
+bright,giving out or reflecting much light,adjective,luminous;radiant;brilliant;vivid;dazzling,dark;dim;dull;gloomy,The sun is bright today.,/braɪt/,85
+dark,with little or no light,adjective,dim;gloomy;murky;shadowy;unlit,bright;light;luminous;radiant,The room was dark.,/dɑːrk/,88
+hot,having a high temperature,adjective,warm;scorching;burning;boiling;sweltering,cold;cool;chilly;freezing,The coffee is too hot.,/hɒt/,90
+cold,of or at a low temperature,adjective,chilly;freezing;icy;frigid;frosty,hot;warm;boiling;scorching,The winter nights are cold.,/koʊld/,90
+strong,having great physical power,adjective,powerful;mighty;robust;sturdy;muscular,weak;frail;feeble;delicate,He is a strong man.,/strɒŋ/,88
+weak,lacking physical strength,adjective,frail;feeble;fragile;delicate;infirm,strong;powerful;mighty;robust,She felt weak after the illness.,/wiːk/,80
+old,having lived for a long time,adjective,elderly;aged;ancient;mature;senior,young;new;youthful;juvenile,The old man smiled kindly.,/oʊld/,95
+young,having lived for only a short time,adjective,youthful;juvenile;adolescent;immature;junior,old;elderly;aged;ancient,The young girl danced gracefully.,/jʌŋ/,93
+tall,of great or more than average height,adjective,high;towering;lofty;elevated;lanky,short;low;small;petite,The giraffe is very tall.,/tɔːl/,82
+short,measuring a small distance from end to end,adjective,brief;small;petite;compact;little,tall;long;high;extended,He is short for his age.,/ʃɔːrt/,85
+rich,having a great deal of money or assets,adjective,wealthy;affluent;prosperous;opulent;loaded,poor;impoverished;destitute;needy,The rich man donated generously.,/rɪtʃ/,85
+poor,lacking sufficient money for necessities,adjective,impoverished;destitute;needy;broke;penniless,rich;wealthy;affluent;prosperous,The poor family needed help.,/pʊr/,83
+clean,free from dirt or impurities,adjective,spotless;tidy;pristine;immaculate;pure,dirty;filthy;messy;grimy,The kitchen is very clean.,/kliːn/,85
+dirty,covered or marked with an unclean substance,adjective,filthy;grimy;messy;soiled;unclean,clean;spotless;tidy;pristine,His clothes were dirty.,/ˈdɜːrti/,78
+kind,of a good and generous nature,adjective,generous;caring;compassionate;benevolent;gentle,cruel;mean;unkind;harsh,She is a kind person.,/kaɪnd/,87
+cruel,willfully causing pain or suffering,adjective,brutal;harsh;merciless;ruthless;savage,kind;gentle;compassionate;merciful,The cruel king punished everyone.,/ˈkruːəl/,72
+brave,ready to face danger or endure pain,adjective,courageous;fearless;valiant;bold;heroic,cowardly;timid;afraid;fearful,The brave soldier fought valiantly.,/breɪv/,80
+afraid,feeling fear or anxiety,adjective,scared;frightened;terrified;fearful;anxious,brave;courageous;fearless;bold,She was afraid of the dark.,/əˈfreɪd/,78
+quiet,making little or no noise,adjective,silent;hushed;peaceful;still;tranquil,loud;noisy;boisterous;rowdy,The library is very quiet.,/ˈkwaɪət/,83
+loud,producing much noise or sound,adjective,noisy;boisterous;thunderous;deafening;blaring,quiet;silent;hushed;peaceful,The music was too loud.,/laʊd/,80
+easy,achieved without great effort,adjective,simple;effortless;straightforward;uncomplicated,difficult;hard;challenging;tough,The test was easy.,/ˈiːzi/,88
+difficult,needing much effort or skill to accomplish,adjective,hard;challenging;tough;demanding;arduous,easy;simple;effortless;straightforward,The math problem was difficult.,/ˈdɪfɪkəlt/,85
+begin,to start or commence,verb,start;commence;initiate;launch;embark,end;finish;conclude;stop,Let us begin the lesson.,/bɪˈɡɪn/,85
+end,to come to a final point or finish,verb,finish;conclude;terminate;cease;stop,begin;start;commence;initiate,The movie will end at nine.,/ɛnd/,90
+create,to bring something into existence,verb,make;produce;design;build;invent,destroy;demolish;ruin;dismantle,Artists create beautiful things.,/kriˈeɪt/,88
+destroy,to put an end to the existence of something,verb,demolish;ruin;annihilate;wreck;devastate,create;build;construct;make,The storm destroyed many houses.,/dɪˈstrɔɪ/,75
+give,to freely transfer possession of something,verb,donate;provide;offer;grant;bestow,take;receive;withhold;keep,She gives gifts to children.,/ɡɪv/,95
+take,to lay hold of something with hands,verb,grab;seize;grasp;acquire;obtain,give;donate;offer;provide,Please take this book.,/teɪk/,96
+open,to move so as to allow access,verb,unlock;unfasten;unseal;uncover;reveal,close;shut;seal;lock,Please open the door.,/ˈoʊpən/,92
+close,to move so as to block an opening,verb,shut;seal;fasten;lock;secure,open;unlock;unseal;reveal,Please close the window.,/kloʊz/,90
+buy,to obtain in exchange for payment,verb,purchase;acquire;procure;obtain;get,sell;vend;trade;dispose,She wants to buy a dress.,/baɪ/,88
+sell,to give something to someone in exchange for money,verb,vend;market;trade;retail;auction,buy;purchase;acquire;obtain,They sell fresh fruits.,/sɛl/,85
+laugh,to make sounds expressing amusement,verb,giggle;chuckle;cackle;guffaw;snicker,cry;weep;sob;wail,The joke made everyone laugh.,/læf/,82
+cry,to shed tears as an expression of distress,verb,weep;sob;wail;bawl;whimper,laugh;giggle;chuckle;smile,The baby started to cry.,/kraɪ/,80
+remember,to have in or be able to bring to mind,verb,recall;recollect;reminisce;retain;recognize,forget;overlook;neglect;disregard,I remember my childhood fondly.,/rɪˈmɛmbər/,85
+forget,to fail to remember,verb,overlook;neglect;disregard;ignore;omit,remember;recall;recollect;retain,Don't forget your keys.,/fərˈɡɛt/,82
+answer,a response to a question or situation,noun,reply;response;retort;solution;explanation,question;query;inquiry;problem,She gave the correct answer.,/ˈænsər/,88
+question,a sentence worded to elicit information,noun,query;inquiry;interrogation;issue;problem,answer;reply;response;solution,He asked a difficult question.,/ˈkwɛstʃən/,90
+friend,a person whom one knows and has a bond of mutual affection,noun,companion;pal;buddy;ally;comrade,enemy;foe;rival;adversary,She is my best friend.,/frɛnd/,93
+enemy,a person who is hostile or opposed to someone,noun,foe;rival;adversary;opponent;antagonist,friend;ally;companion;supporter,The army defeated the enemy.,/ˈɛnəmi/,75
+child,a young human being below the age of puberty,noun,kid;youngster;youth;infant;toddler,adult;grown-up;elder,The child is playing in the park.,/tʃaɪld/,92
+adult,a person who is fully grown,noun,grown-up;mature person;elder;senior,child;kid;youngster;youth,Every adult has responsibilities.,/ˈædʌlt/,82
+success,the accomplishment of an aim or purpose,noun,achievement;triumph;victory;accomplishment;attainment,failure;defeat;loss;setback,Hard work leads to success.,/səkˈsɛs/,88
+failure,lack of success,noun,defeat;loss;setback;fiasco;debacle,success;achievement;triumph;victory,Learn from your failure.,/ˈfeɪljər/,78
+truth,the quality of being true,noun,fact;reality;accuracy;honesty;veracity,lie;falsehood;deception;fiction,Always speak the truth.,/truːθ/,85
+lie,an intentionally false statement,noun,falsehood;untruth;fabrication;deception;fib,truth;fact;reality;honesty,Never tell a lie.,/laɪ/,80
+hope,a feeling of expectation and desire,noun,optimism;aspiration;wish;expectation;desire,despair;hopelessness;pessimism;doubt,Hope keeps us going.,/hoʊp/,88
+fear,an unpleasant emotion caused by threat of danger,noun,terror;dread;fright;alarm;panic,courage;bravery;confidence;fearlessness,He overcame his fear of heights.,/fɪr/,82
+peace,freedom from disturbance or tranquility,noun,harmony;tranquility;serenity;calm;quiet,war;conflict;turmoil;chaos,We all wish for world peace.,/piːs/,87
+war,a state of armed conflict between nations,noun,conflict;battle;combat;warfare;hostility,peace;harmony;truce;ceasefire,War causes great suffering.,/wɔːr/,82
+music,vocal or instrumental sounds combined to produce beauty,noun,melody;harmony;tune;rhythm;song,silence;noise;discord;cacophony,She loves classical music.,/ˈmjuːzɪk/,90
+dance,to move rhythmically to music,verb,sway;waltz;groove;twirl;shimmy,sit;stand;remain still,They dance at every party.,/dæns/,82
+sing,to make musical sounds with the voice,verb,chant;croon;hum;warble;vocalize,be silent;whisper,Birds sing in the morning.,/sɪŋ/,82
+help,to make it easier for someone to do something,verb,assist;aid;support;facilitate;serve,hinder;obstruct;impede;prevent,Please help me carry this.,/hɛlp/,93
+hurt,to cause physical pain or injury,verb,injure;harm;wound;damage;bruise,heal;cure;mend;soothe,Don't hurt anyone's feelings.,/hɜːrt/,80
+build,to construct something by putting parts together,verb,construct;erect;assemble;create;fabricate,demolish;destroy;dismantle;raze,They will build a new school.,/bɪld/,85
+break,to separate into pieces as a result of force,verb,shatter;crack;fracture;smash;snap,fix;repair;mend;restore,Be careful not to break the glass.,/breɪk/,85
+fly,to move through the air using wings,verb,soar;glide;hover;float;sail,land;descend;fall;drop,Birds fly south in winter.,/flaɪ/,82
+swim,to propel the body through water,verb,paddle;float;dive;wade;bathe,sink;drown,She can swim very well.,/swɪm/,78
+grow,to undergo natural development by increasing in size,verb,develop;expand;increase;mature;flourish,shrink;diminish;decline;wither,Plants grow towards sunlight.,/ɡroʊ/,88
+change,to make or become different,verb,alter;modify;transform;adjust;convert,maintain;preserve;keep;retain,Seasons change every few months.,/tʃeɪndʒ/,90
+move,to change position or go to a different place,verb,shift;transfer;relocate;travel;proceed,stay;remain;stop;halt,Let's move to a new city.,/muːv/,90
+stop,to cease moving or operating,verb,halt;cease;pause;discontinue;terminate,start;begin;continue;proceed,Please stop the car here.,/stɒp/,90
+wait,to stay where one is until a particular time,verb,remain;stay;linger;pause;delay,go;leave;depart;hurry,Please wait for me here.,/weɪt/,85
+find,to discover or perceive by chance or effort,verb,discover;locate;uncover;detect;spot,lose;misplace;miss;overlook,I need to find my keys.,/faɪnd/,92
+lose,to be deprived of or cease to have something,verb,misplace;forfeit;drop;miss;waste,find;discover;gain;win,Don't lose your wallet.,/luːz/,82
+win,to be successful in a contest or conflict,verb,triumph;succeed;prevail;conquer;achieve,lose;fail;forfeit;surrender,Our team will win the match.,/wɪn/,85
+fight,to take part in a violent struggle,verb,battle;combat;struggle;clash;wrestle,surrender;yield;retreat;submit,They fight for justice.,/faɪt/,78
+climb,to go or come up a slope or incline,verb,ascend;scale;mount;clamber;scramble,descend;fall;drop;decline,They climb mountains every weekend.,/klaɪm/,75
+fall,to move downward typically rapidly and freely,verb,drop;descend;plunge;tumble;collapse,rise;ascend;climb;soar,Leaves fall in autumn.,/fɔːl/,85
+smile,to form one's features into a pleased expression,verb,grin;beam;smirk;simper,frown;scowl;grimace;glare,She always has a warm smile.,/smaɪl/,82
+jump,to push oneself off a surface into the air,verb,leap;hop;spring;bound;vault,land;descend;fall;sit,The cat can jump very high.,/dʒʌmp/,78
+pull,to exert force to move something toward oneself,verb,drag;tug;draw;haul;yank,push;shove;thrust;press,Pull the door to open it.,/pʊl/,78
+push,to exert force on someone or something to move them away,verb,shove;thrust;press;propel;nudge,pull;drag;draw;tug,Push the button to start.,/pʊʃ/,78
+sit,to adopt a position with the weight supported by the buttocks,verb,be seated;perch;rest;settle;squat,stand;rise;get up,Please sit down here.,/sɪt/,88
+stand,to have or maintain an upright position,verb,rise;get up;be upright;remain;stay,sit;lie;recline;kneel,Stand up and stretch.,/stænd/,88
+know,to be aware of through observation or information,verb,understand;comprehend;recognize;realize;perceive,be ignorant;not know;misunderstand,I know the answer.,/noʊ/,95
+understand,to perceive the intended meaning of something,verb,comprehend;grasp;fathom;appreciate;realize,misunderstand;confuse;misinterpret,I understand the concept now.,/ˌʌndərˈstænd/,90
+believe,to accept something as true,verb,trust;accept;have faith;be convinced;credit,doubt;disbelieve;question;deny,I believe in hard work.,/bɪˈliːv/,85
+doubt,to feel uncertain about something,verb,question;distrust;suspect;mistrust;waver,believe;trust;accept;have faith,Don't doubt yourself.,/daʊt/,75
+agree,to have the same opinion about something,verb,concur;consent;approve;accept;comply,disagree;oppose;reject;refuse,We all agree on this matter.,/əˈɡriː/,82
+disagree,to have a different opinion,verb,differ;oppose;object;dispute;clash,agree;concur;consent;accept,They disagree on many topics.,/ˌdɪsəˈɡriː/,72
+accept,to consent to receive or undertake something,verb,receive;take;embrace;welcome;approve,reject;refuse;decline;deny,She accepted the invitation.,/əkˈsɛpt/,82
+reject,to dismiss as inadequate or unacceptable,verb,refuse;decline;deny;dismiss;turn down,accept;embrace;welcome;approve,He rejected the offer politely.,/rɪˈdʒɛkt/,72
+celebrate,to acknowledge a significant event with enjoyable activity,verb,commemorate;observe;honor;mark;rejoice,mourn;grieve;lament;ignore,They celebrate birthdays together.,/ˈsɛlɪbreɪt/,78
+suffer,to experience something bad or unpleasant,verb,endure;bear;undergo;tolerate;withstand,enjoy;relish;thrive;flourish,Many people suffer in silence.,/ˈsʌfər/,72
+enjoy,to take delight or pleasure in,verb,relish;savor;appreciate;like;love,dislike;hate;suffer;endure,I enjoy reading books.,/ɪnˈdʒɔɪ/,85
+travel,to make a journey from one place to another,verb,journey;voyage;tour;explore;trek,stay;remain;settle,They love to travel abroad.,/ˈtrævəl/,82
+arrive,to reach a destination,verb,come;reach;appear;show up;get to,depart;leave;go;exit,The train will arrive at noon.,/əˈraɪv/,80
+leave,to go away from a place,verb,depart;exit;go;withdraw;vacate,arrive;come;reach;stay,He will leave tomorrow morning.,/liːv/,88
+send,to cause to go or be taken to a particular destination,verb,dispatch;deliver;transmit;forward;mail,receive;get;accept;keep,Please send me the documents.,/sɛnd/,85
+receive,to be given or presented with something,verb,get;obtain;accept;acquire;collect,send;give;dispatch;deliver,She received a beautiful gift.,/rɪˈsiːv/,82
+protect,to keep safe from harm or injury,verb,defend;guard;shield;safeguard;shelter,attack;harm;endanger;expose,Parents protect their children.,/prəˈtɛkt/,80
+attack,to take aggressive action against,verb,assault;strike;raid;invade;charge,defend;protect;guard;shield,The army launched an attack.,/əˈtæk/,75
+important,of great significance or value,adjective,significant;crucial;vital;essential;critical,unimportant;trivial;insignificant;minor,Education is very important.,/ɪmˈpɔːrtənt/,92
+simple,easily understood or done,adjective,easy;basic;straightforward;uncomplicated;plain,complex;complicated;difficult;intricate,The instructions are simple.,/ˈsɪmpəl/,85
+complex,consisting of many different parts,adjective,complicated;intricate;elaborate;involved;convoluted,simple;easy;basic;straightforward,The human brain is complex.,/ˈkɒmplɛks/,78
+ancient,belonging to the very distant past,adjective,old;archaic;antique;prehistoric;primeval,modern;new;contemporary;recent,They visited an ancient temple.,/ˈeɪnʃənt/,75
+modern,relating to the present time,adjective,contemporary;current;recent;present-day;up-to-date,ancient;old;archaic;outdated,She likes modern architecture.,/ˈmɒdərn/,82
+dangerous,able or likely to cause harm or injury,adjective,hazardous;risky;perilous;unsafe;treacherous,safe;secure;harmless;protected,Swimming in the river is dangerous.,/ˈdeɪndʒərəs/,78
+safe,protected from danger or risk,adjective,secure;protected;sheltered;guarded;harmless,dangerous;hazardous;risky;perilous,The children are safe at home.,/seɪf/,85
+correct,free from error; in accordance with fact,adjective,right;accurate;precise;exact;true,wrong;incorrect;inaccurate;false,Your answer is correct.,/kəˈrɛkt/,82
+wrong,not correct or true,adjective,incorrect;false;inaccurate;mistaken;erroneous,correct;right;accurate;true,That answer is wrong.,/rɒŋ/,85
+possible,able to be done or achieved,adjective,feasible;achievable;attainable;viable;doable,impossible;unachievable;infeasible;unattainable,Anything is possible with effort.,/ˈpɒsɪbəl/,85
+impossible,not able to occur or be done,adjective,unachievable;infeasible;unattainable;hopeless;inconceivable,possible;feasible;achievable;attainable,Nothing is impossible if you try.,/ɪmˈpɒsɪbəl/,78
+patient,able to accept delays without becoming annoyed,adjective,tolerant;forbearing;calm;composed;understanding,impatient;restless;hasty;agitated,Be patient and wait your turn.,/ˈpeɪʃənt/,78
+curious,eager to know or learn something,adjective,inquisitive;interested;intrigued;nosy;eager,indifferent;uninterested;apathetic;incurious,The curious child asked many questions.,/ˈkjʊriəs/,75
+generous,showing a readiness to give more than is expected,adjective,charitable;liberal;bountiful;magnanimous;giving,stingy;selfish;greedy;miserly,He is a generous donor.,/ˈdʒɛnərəs/,75
+selfish,lacking consideration for others,adjective,self-centered;greedy;egotistical;narcissistic;inconsiderate,generous;selfless;altruistic;charitable,Don't be selfish with your toys.,/ˈsɛlfɪʃ/,70
+honest,free of deceit and untruthfulness,adjective,truthful;sincere;genuine;candid;frank,dishonest;deceitful;lying;fraudulent,An honest person is respected.,/ˈɒnɪst/,82
+proud,feeling deep pleasure from achievements,adjective,pleased;satisfied;gratified;honored;elated,ashamed;humble;embarrassed;modest,She is proud of her son.,/praʊd/,80
+nervous,easily agitated or apprehensive,adjective,anxious;worried;tense;uneasy;jittery,calm;relaxed;composed;confident,He was nervous before the exam.,/ˈnɜːrvəs/,75
+calm,not showing or feeling nervousness or anger,adjective,peaceful;serene;tranquil;composed;relaxed,nervous;agitated;anxious;restless,Stay calm during emergencies.,/kɑːm/,82
+polite,having good manners and showing respect,adjective,courteous;respectful;civil;gracious;well-mannered,rude;impolite;discourteous;disrespectful,Always be polite to elders.,/pəˈlaɪt/,78
+rude,offensively impolite or bad-mannered,adjective,impolite;discourteous;disrespectful;insolent;uncouth,polite;courteous;respectful;civil,It is rude to interrupt others.,/ruːd/,72
+wise,having experience knowledge and good judgment,adjective,intelligent;sagacious;prudent;astute;discerning,foolish;stupid;unwise;ignorant,The wise old man gave advice.,/waɪz/,78
+foolish,lacking good sense or judgment,adjective,stupid;silly;unwise;senseless;absurd,wise;intelligent;smart;sensible,It was a foolish decision.,/ˈfuːlɪʃ/,68
+narrow,of small width in relation to length,adjective,thin;slim;slender;tight;constricted,wide;broad;spacious;expansive,The road was too narrow.,/ˈnæroʊ/,72
+wide,of great extent from side to side,adjective,broad;expansive;spacious;vast;extensive,narrow;thin;slim;tight,The river is very wide.,/waɪd/,78
+deep,extending far down from the surface,adjective,profound;bottomless;fathomless;immeasurable;abyssal,shallow;superficial;surface,The ocean is very deep.,/diːp/,80
+shallow,of little depth,adjective,superficial;surface-level;slight;thin;cursory,deep;profound;bottomless;fathomless,The pool was shallow enough for kids.,/ˈʃæloʊ/,68
+empty,containing nothing,adjective,vacant;bare;void;hollow;blank,full;filled;occupied;loaded,The bottle is empty.,/ˈɛmpti/,78
+full,containing as much as possible,adjective,filled;packed;loaded;brimming;stuffed,empty;vacant;bare;void,The glass is full of water.,/fʊl/,85
+smooth,having an even surface without roughness,adjective,sleek;polished;silky;glossy;even,rough;coarse;bumpy;uneven,The road was smooth and well-paved.,/smuːð/,72
+rough,having an uneven or irregular surface,adjective,coarse;bumpy;uneven;jagged;rugged,smooth;sleek;polished;even,The rough terrain was hard to cross.,/rʌf/,72
+sharp,having an edge or point that can cut,adjective,keen;pointed;edged;razor-like;honed,dull;blunt;rounded;obtuse,Be careful with the sharp knife.,/ʃɑːrp/,78
+dull,lacking interest or excitement,adjective,boring;tedious;monotonous;uninteresting;bland,sharp;interesting;exciting;stimulating,The lecture was dull and long.,/dʌl/,70
+natural,existing in or derived from nature,adjective,organic;genuine;pure;authentic;innate,artificial;synthetic;man-made;fake,Natural beauty is breathtaking.,/ˈnætʃərəl/,82
+artificial,made or produced by human beings,adjective,synthetic;man-made;fake;manufactured;imitation,natural;organic;genuine;authentic,Artificial flowers look realistic.,/ˌɑːrtɪˈfɪʃəl/,68
+public,of or concerning the people as a whole,adjective,communal;shared;common;open;collective,private;personal;individual;exclusive,The park is a public space.,/ˈpʌblɪk/,82
+private,belonging to a particular person not public,adjective,personal;individual;exclusive;confidential;secret,public;communal;shared;open,This is a private conversation.,/ˈpraɪvɪt/,80
+healthy,in good physical or mental condition,adjective,fit;well;sound;robust;vigorous,unhealthy;sick;ill;unwell,Eating fruits keeps you healthy.,/ˈhɛlθi/,82
+sick,affected by physical or mental illness,adjective,ill;unwell;ailing;diseased;unhealthy,healthy;well;fit;sound,She was sick and stayed home.,/sɪk/,78
+complete,having all the necessary parts,adjective,whole;entire;full;total;comprehensive,incomplete;partial;unfinished;lacking,The project is now complete.,/kəmˈpliːt/,82
+empty,having nothing inside,adjective,vacant;void;bare;hollow;blank,full;filled;occupied;complete,The room was completely empty.,/ˈɛmpti/,78
+quickly,at a fast speed,adverb,rapidly;swiftly;fast;speedily;hastily,slowly;gradually;leisurely;unhurriedly,She quickly finished her homework.,/ˈkwɪkli/,78
+slowly,at a slow speed,adverb,gradually;unhurriedly;leisurely;steadily;gently,quickly;rapidly;swiftly;fast,He walked slowly through the park.,/ˈsloʊli/,75
+carefully,with great attention and caution,adverb,cautiously;attentively;meticulously;diligently;prudently,carelessly;recklessly;negligently;hastily,Drive carefully on wet roads.,/ˈkɛrfəli/,75
+always,at all times; on every occasion,adverb,forever;constantly;perpetually;invariably;continually,never;rarely;seldom;occasionally,She always arrives on time.,/ˈɔːlweɪz/,92
+never,at no time; not ever,adverb,not ever;at no time;not once;by no means,always;forever;constantly;continually,He never gives up easily.,/ˈnɛvər/,90
+together,with or in proximity to another person,adverb,jointly;collectively;unitedly;in unison;as one,apart;separately;individually;alone,They work together as a team.,/təˈɡɛðər/,85
+above,in or to a higher position,preposition,over;higher than;atop;on top of;beyond,below;under;beneath;underneath,The bird flew above the trees.,/əˈbʌv/,78
+below,at a lower level or layer,preposition,under;beneath;underneath;lower than,above;over;higher than;atop,The fish swam below the surface.,/bɪˈloʊ/,75
+between,in the space separating two things,preposition,amid;among;in the middle of;betwixt,outside;beyond;away from,The park is between the two buildings.,/bɪˈtwiːn/,82
+because,for the reason that,conjunction,since;as;due to;owing to;for,despite;although;nevertheless;however,She stayed home because it rained.,/bɪˈkɒz/,92
+although,in spite of the fact that,conjunction,though;even though;despite;notwithstanding;whereas,because;since;therefore;consequently,Although tired she kept working.,/ɔːlˈðoʊ/,78
+hello,used as a greeting,interjection,hi;hey;greetings;howdy;salutations,goodbye;farewell;bye;adieu,Hello! How are you today?,/hɛˈloʊ/,90
+goodbye,used to express good wishes when parting,interjection,farewell;bye;adieu;so long;cheerio,hello;hi;hey;greetings,Goodbye and take care!,/ɡʊdˈbaɪ/,82
+education,the process of receiving or giving instruction,noun,learning;schooling;teaching;training;instruction,ignorance;illiteracy,Education is the key to success.,/ˌɛdʒuˈkeɪʃən/,85
+knowledge,facts or information acquired by experience or education,noun,understanding;wisdom;awareness;insight;expertise,ignorance;stupidity;unawareness,Knowledge is power.,/ˈnɒlɪdʒ/,88
+freedom,the state of being free,noun,liberty;independence;autonomy;emancipation;sovereignty,captivity;slavery;imprisonment;bondage,Freedom is a basic human right.,/ˈfriːdəm/,82
+justice,just behavior or treatment,noun,fairness;equity;righteousness;impartiality;honesty,injustice;unfairness;bias;inequality,Justice must prevail in society.,/ˈdʒʌstɪs/,78
+patience,the capacity to accept delay without getting angry,noun,tolerance;endurance;forbearance;composure;perseverance,impatience;restlessness;intolerance;irritability,Patience is a virtue.,/ˈpeɪʃəns/,78
+courage,the ability to do something that frightens one,noun,bravery;valor;fearlessness;boldness;nerve,cowardice;timidity;fear;weakness,It takes courage to stand up.,/ˈkʌrɪdʒ/,80
+wisdom,the quality of having experience and good judgment,noun,sagacity;insight;knowledge;prudence;discernment,foolishness;stupidity;ignorance;folly,With age comes wisdom.,/ˈwɪzdəm/,78
+beauty,a quality that gives pleasure to the senses,noun,attractiveness;loveliness;elegance;grace;charm,ugliness;plainness;homeliness,Beauty lies in the eyes of the beholder.,/ˈbjuːti/,82
+strength,the quality of being physically strong,noun,power;force;might;vigor;potency,weakness;frailty;feebleness;fragility,Inner strength is more important.,/strɛŋθ/,80
+weakness,the state of being weak,noun,frailty;feebleness;fragility;vulnerability;deficiency,strength;power;might;vigor,Everyone has some weakness.,/ˈwiːknəs/,72
+happiness,the state of being happy,noun,joy;bliss;delight;contentment;pleasure,sadness;sorrow;misery;unhappiness,Happiness comes from within.,/ˈhæpinəs/,82
+anger,a strong feeling of annoyance or displeasure,noun,rage;fury;wrath;irritation;indignation,calmness;peace;serenity;composure,Control your anger wisely.,/ˈæŋɡər/,75
+surprise,an unexpected event or fact,noun,astonishment;amazement;shock;wonder;bewilderment,expectation;anticipation;prediction,The party was a complete surprise.,/sərˈpraɪz/,80
+discovery,the action of finding something new,noun,finding;revelation;detection;breakthrough;unearthing,concealment;loss;cover-up;hiding,The discovery changed science forever.,/dɪsˈkʌvəri/,75
+adventure,an unusual and exciting experience,noun,expedition;journey;quest;exploration;escapade,routine;boredom;monotony;drudgery,Life is a great adventure.,/ədˈvɛntʃər/,78
+mountain,a large natural elevation of the earth,noun,peak;summit;hill;ridge;mount,valley;plain;lowland;depression,They climbed the mountain at dawn.,/ˈmaʊntɪn/,78
+ocean,a very large expanse of sea,noun,sea;deep;marine;waters;abyss,land;shore;coast;continent,The ocean is vast and mysterious.,/ˈoʊʃən/,78
+garden,a piece of ground used for growing plants,noun,yard;park;grove;orchard;plot,desert;wasteland;wilderness,She planted roses in the garden.,/ˈɡɑːrdən/,75
+dream,a series of images occurring during sleep,noun,vision;fantasy;aspiration;ambition;wish,reality;nightmare;wakefulness,Follow your dreams always.,/driːm/,82
+family,a group of related people living together,noun,household;kin;relatives;clan;lineage,stranger;outsider;individual,Family is the most important thing.,/ˈfæməli/,92
+school,an institution for educating children,noun,academy;institute;college;university;seminary,none,She walks to school every day.,/skuːl/,93
+time,the indefinite continued progress of existence,noun,duration;period;moment;era;epoch,none,Time waits for no one.,/taɪm/,99
+world,the earth with all its inhabitants,noun,globe;planet;earth;universe;realm,none,The world is a beautiful place.,/wɜːrld/,95
+quickly,at a fast speed; rapidly,adverb,rapidly;swiftly;speedily;hastily;promptly,slowly;gradually;leisurely,He quickly solved the puzzle.,/ˈkwɪkli/,80
