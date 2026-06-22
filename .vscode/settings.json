@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/venv/bin/python",
+  "python.pythonPath": "${workspaceFolder}/backend/venv/bin/python",
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/backend",
+    "${workspaceFolder}/backend/venv/lib/python3.14/site-packages",
+    "/Users/ashokkumar/Downloads/offline_dictionary/backend/venv/lib/python3.14/site-packages"
+  ]
+}

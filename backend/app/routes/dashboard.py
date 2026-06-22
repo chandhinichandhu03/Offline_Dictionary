@@ -1,3 +1,4 @@
+"""Dashboard API routes for user stats, quiz history, and learning progress."""
 from fastapi import APIRouter, Depends
 from sqlalchemy.orm import Session
 from sqlalchemy import func
