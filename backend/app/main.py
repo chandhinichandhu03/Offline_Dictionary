@@ -11,13 +11,13 @@ from app.routes import auth, dictionary, sentence, favorites, history, dashboard
 async def lifespan(app: FastAPI):
     """Startup and shutdown events."""
     # Startup: seed database and load ML models
-    print("\n🚀 Starting LexiLearn Backend...")
+    print("\n[*] Starting LexiLearn Backend...")
     seed_all()
     load_all_models()
-    print("✅ LexiLearn Backend ready!\n")
+    print("[OK] LexiLearn Backend ready!\n")
     yield
     # Shutdown
-    print("\n👋 Shutting down LexiLearn Backend...")
+    print("\n[*] Shutting down LexiLearn Backend...")
 
 
 app = FastAPI(

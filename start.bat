@@ -13,17 +13,17 @@ echo.
 
 :: -- Kill any process already using port 8000 --
 for /f "tokens=5" %%a in ('netstat -aon ^| findstr ":8000" ^| findstr "LISTENING"') do (
-    echo [!] Port 8000 is in use (PID %%a). Stopping it...
+    echo [!] Port 8000 is in use with PID %%a. Stopping it...
     taskkill /F /PID %%a >nul 2>&1
-    timeout /t 1 >nul
+    ping 127.0.0.1 -n 2 >nul
     echo [OK] Port 8000 freed.
 )
 
 :: -- Kill any process already using port 5173 --
 for /f "tokens=5" %%a in ('netstat -aon ^| findstr ":5173" ^| findstr "LISTENING"') do (
-    echo [!] Port 5173 is in use (PID %%a). Stopping it...
+    echo [!] Port 5173 is in use with PID %%a. Stopping it...
     taskkill /F /PID %%a >nul 2>&1
-    timeout /t 1 >nul
+    ping 127.0.0.1 -n 2 >nul
     echo [OK] Port 5173 freed.
 )
 
@@ -34,7 +34,7 @@ cd /d "%BACKEND_DIR%"
 start /b "Backend" cmd /c "call venv\Scripts\activate.bat && uvicorn app.main:app --host 127.0.0.1 --port 8000"
 
 :: Give backend a moment to boot
-timeout /t 2 /nobreak >nul
+ping 127.0.0.1 -n 3 >nul
 
 :: -- Start Frontend --
 echo.

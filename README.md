@@ -82,3 +82,10 @@ Once both servers are running:
 * **Demo User Account**:
   * **Username**: `demo`
   * **Password**: `Demo1234!`
+
+
+
+run code in terminal
+
+.\start.bat
+
